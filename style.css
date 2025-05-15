@@ -321,9 +321,8 @@ header {
     position: fixed;
     z-index: 99999;
     justify-content: center;
-    overflow-y: hidden;
+    overflow: hidden;
     background-image: url(src/svg/Pulse-0.4s-200px.gif);
-    background-size: 10%
 }
 
 .navbar,
